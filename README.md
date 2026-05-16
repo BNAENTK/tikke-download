@@ -10,7 +10,7 @@ TikTok LIVE 방송 도구 **Tikke** 설치 파일 배포 레포지토리.
 
 - 이 레포지토리는 **설치 파일 배포 전용**입니다.
 - 소스코드는 포함되지 않습니다.
-- 개발 소스코드: [BNAENTK/tikke](https://github.com/BNAENTK/tikke)
+
 
 ## 설치
 
