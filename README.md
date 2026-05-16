@@ -1,0 +1,19 @@
+# Tikke Download
+
+TikTok LIVE 방송 도구 **Tikke** 설치 파일 배포 레포지토리.
+
+## 다운로드
+
+👉 [최신 버전 다운로드](https://github.com/BNAENTK/tikke-download/releases/latest)
+
+## 안내
+
+- 이 레포지토리는 **설치 파일 배포 전용**입니다.
+- 소스코드는 포함되지 않습니다.
+- 개발 소스코드: [BNAENTK/tikke](https://github.com/BNAENTK/tikke)
+
+## 설치
+
+1. 위 다운로드 링크에서 최신 `.exe` 파일 다운로드
+2. 설치 파일 실행
+3. 안내에 따라 설치 완료
