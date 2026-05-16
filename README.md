@@ -4,7 +4,7 @@ TikTok LIVE 방송 도구 **Tikke** 설치 파일 배포 레포지토리.
 
 ## 다운로드
 
-👉 [최신 버전 다운로드](https://github.com/BNAENTK/tikke-download/releases/latest)
+
 
 ## 안내
 
